@@ -1,17 +1,2 @@
-# Welcome to MkDocs
-
-
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloa ding docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 项目简介：
+>本项目主要面向浙江大学丹阳青溪学园全体同学，着眼于校内交通出行和安全两个核心点，综合运用大数据手段实现数字治理和校内交通法规的有机融合，为同学校内>出行提供更加便利的路线选择和更加可靠的安全保障。
